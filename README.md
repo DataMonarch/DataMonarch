@@ -1,4 +1,4 @@
-👋 Hello there, I’m Obi-Wa... kidding. It's @DataMonarch and I am:
+👋 Hello there, It's @DataMonarch and I am:
 - 👨‍💻 Machine Learning Engineer - currently doing research in Computer Vision on Continuous Sign Language Recognintion in Azeri at ADA University. You can [track the repository here](https://github.com/ADA-SITE-JML/sign-lang).
 - 📊 Data Scientist - working on Blockchain Analysis atm.
 - 🎓 Master's student - Master of Sciences in Computer Science and Data Analytics at George Washington and ADA Universities (double degree program, neat huh...)
