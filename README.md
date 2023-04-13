@@ -1,9 +1,13 @@
 # Toghrul Tahirov
-### 👋 Hello there, It's @DataMonarch. I am a Computer Vision Researcher and CTO
+### 👋 Hello there, It's @DataMonarch. I am a CDO, Machine Learning Engineer and Computer Vision Researcher
 
-⤷ 👨‍💻 Computer Vision Researcher - currently doing research in Computer Vision on Continuous Sign Language Recognintion in Azeri at ADA University. You can [track the repository here](https://github.com/ADA-SITE-JML/sign-lang).
+⤷ 🤖 Machine Learning Engineer @ BitsOrchestra
 
-⤷ 📊 Data Scientist - working on Blockchain Analysis atm.
+⤷ 📊 Chief Data Officer @ Digdata - Blockchain Analytics Company 
+
+⤷ 👨‍💻 Computer Vision Researcher - conducted research in Computer Vision on Continuous Sign Language Recognintion in Azeri at ADA University. You can [track the repository here](https://github.com/ADA-SITE-JML/sign-lang).
+
+⤷ 📊 Data Scientist @ Digdata - worked on Blockchain Analysis.
 
 ⤷ 🎓 Master's student - Master of Sciences in Computer Science and Data Analytics at George Washington and ADA Universities (double degree program, neat huh...)
 
