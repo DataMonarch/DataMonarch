@@ -21,9 +21,9 @@
 
 ⚐ Based in Baku, Azerbaijan
 
-ϟ Currently doing research in Computer Vision on Continuous Sign Language Recognintion in Azeri at ADA University
+ϟ Currently doing Deep Nural Forecasting as a Machine Learning Engineer @Bitsorchestra
 
-ϟ Recently got promoted to the Chief Technology Officer position @ DigData 
+ϟ Chief Data Officer @ DigData 
 
 ## Skills
 
