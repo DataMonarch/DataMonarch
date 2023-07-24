@@ -1,5 +1,5 @@
 # Toghrul Tahirov
-### 👋 Hello there, It's @DataMonarch. I am a CDO, Machine Learning Engineer and Computer Vision Researcher
+### 👋 Hello there, It's @DataMonarch. I am a Machine Learning Engineer, former Chief Data Officer and Computer Vision Researcher
 
 ⤷ 🤖 Machine Learning Engineer @ BitsOrchestra & Eudaimonia Inc.
 
