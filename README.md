@@ -1,7 +1,9 @@
 # Toghrul Tahirov
 ### 👋 Hello there, It's @DataMonarch. I am a Machine Learning Engineer, former Chief Data Officer and Computer Vision Researcher
 
-⤷ 🤖 Machine Learning Engineer @ BitsOrchestra & Eudaimonia Inc.
+⤷ 🤖 AI Lead at Polygraf Inc.
+
+⤷ 🤖 Former Machine Learning Engineer @ BitsOrchestra & Eudaimonia Inc.
 
 ⤷ 📊 Former Chief Data Officer @ Digdata - Blockchain Analytics Company 
 
